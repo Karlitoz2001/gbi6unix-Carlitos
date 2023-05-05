@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in 1 2 3 4 5
-do
-   echo "Welcome $i times"
+for i in hervi carni fruti
+do  
+   echo " $i voro"
 done

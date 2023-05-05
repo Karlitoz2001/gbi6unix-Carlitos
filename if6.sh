@@ -1,16 +1,16 @@
 #!/bin/bash
 # case example
 case $1 in
-    start)
-        echo starting
+    hierva)
+        echo Herviboro
         ;;
-    stop)
-        echo stoping
+    carne)
+        echo carnivoro
         ;;
-    restart)
-    echo restarting
+    fruta)
+    echo frugivoro
         ;;
     *)
-        echo don\'t know
+        echo otrivoro
         ;;
 esac

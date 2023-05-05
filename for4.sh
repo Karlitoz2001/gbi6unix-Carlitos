@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in $(seq 1 2 20)
+for i in $(seq 1 11 40)
 do
    echo "Welcome $i times"
 done
